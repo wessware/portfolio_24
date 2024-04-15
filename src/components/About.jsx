@@ -31,18 +31,16 @@ const About = () => {
     <div className="-mt-[6rem]">
       <motion.div variants={textVariant()}>
         <p className={styles.sectionSubText}>Introduction</p>
-        <h2 className={styles.sectionHeadText}>Overview.</h2>
+        <h2 className={styles.sectionHeadText}>Overview</h2>
       </motion.div>
 
       <motion.p
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]">
-        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis
-        sapiente ipsum dolorum dicta eaque cumque inventore molestias, beatae ea
-        quaerat alias accusamus voluptas autem! Alias odit voluptates in totam
-        vitae dignissimos minus eaque culpa unde tempore dolore aperiam
-        obcaecati voluptatum aliquam corrupti, suscipit accusamus! Odit unde
-        veniam dolorum ipsum doloribus.
+        With more than three years of experience, I have accrued a wealth of skills in Data & Analytics. 
+        I have worked on various projects, from data cleaning and transformation to data visualization. 
+        I am passionate about using my skills in data science to make a positive impact on the world. I as well
+        have crude experience in Software development using technologies such NodeJS, MongoDB, and ReactJS.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
