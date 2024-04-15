@@ -46,11 +46,11 @@ export const navLinks = [
 
 const services = [
   {
-    title: 'Frontend Developer',
+    title: 'Data Analyst',
     icon: frontend,
   },
   {
-    title: 'Backend Developer',
+    title: 'Machine Learning',
     icon: backend,
   },
   {
@@ -58,7 +58,7 @@ const services = [
     icon: ux,
   },
   {
-    title: 'Software Prototyping',
+    title: 'Software Development',
     icon: prototyping,
   },
 ];
@@ -91,10 +91,6 @@ const technologies = [
   {
     name: 'Node JS',
     icon: nodejs,
-  },
-  {
-    name: 'graphql',
-    icon: graphql,
   },
   {
     name: 'git',
