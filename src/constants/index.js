@@ -54,7 +54,7 @@ const services = [
     icon: backend,
   },
   {
-    title: 'UI/UX Design',
+    title: 'Data Enumerator & Management',
     icon: ux,
   },
   {
@@ -115,14 +115,14 @@ const experiences = [
     company_name: 'DukaTech Solutions',
     icon: microverse,
     iconBg: '#333333',
-    date: 'Mar 2022 - May 2022',
+    date: 'Jan 2021 - Aug 2023',
   },
   {
     title: 'Data Manager/Enumerator',
     company_name: 'Federation of Kenya Employer JKUAT',
     icon: kelhel,
     iconBg: '#333333',
-    date: 'May 2022 - Oct 2022',
+    date: 'Oct 2022 - March 2023',
   },
   {
     title: 'Junior Front-end Developer',
