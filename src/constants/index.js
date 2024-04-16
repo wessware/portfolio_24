@@ -104,32 +104,32 @@ const technologies = [
 
 const experiences = [
   {
-    title: 'Front-End Developer',
-    company_name: 'Cover Hunt',
+    title: 'Independent Cloud Contractor',
+    company_name: 'CloudFactory Kenya',
     icon: coverhunt,
     iconBg: '#333333',
-    date: 'Aug 2021 - Feb 2022',
+    date: 'May 2023 - Present',
   },
   {
-    title: 'Mentor (Volunteer)',
-    company_name: 'Microverse',
+    title: 'Data Analsyt',
+    company_name: 'DukaTech Solutions',
     icon: microverse,
     iconBg: '#333333',
     date: 'Mar 2022 - May 2022',
   },
   {
-    title: 'Junior Software Engineer',
-    company_name: 'Kelhel',
+    title: 'Data Manager/Enumerator',
+    company_name: 'Federation of Kenya Employer JKUAT',
     icon: kelhel,
     iconBg: '#333333',
     date: 'May 2022 - Oct 2022',
   },
   {
-    title: 'Full Stack Developer',
-    company_name: 'Diversity Cyber Council',
+    title: 'Junior Front-end Developer',
+    company_name: 'Roftus Kenya',
     icon: dcc,
     iconBg: '#333333',
-    date: 'Sep 2022 - Present',
+    date: 'Jun 2019 - May 2020',
   },
 ];
 
