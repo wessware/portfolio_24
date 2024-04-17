@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
-import { Link } from 'react-router-dom';
+//mport { Link } from 'react-router-dom';
 import { styles } from '../styles';
-import { navLinks } from '../constants';
+//import { navLinks } from '../constants';
 import { shaq, bwmap, worldmap } from '../assets';
 
 const Hero = () => {
