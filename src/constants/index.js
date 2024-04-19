@@ -132,8 +132,8 @@ const experiences = [
 const projects = [
   {
     id: 'project-1',
-    name: 'Natural Language Processing',
-    description: 'A NLP project that analysed the themes of a reknown twitter account - Amerix',
+    name: 'NLP',
+    description: 'Sentiment Analysis on a reknown twitter user - Amerix',
     tags: [
       {
         name: 'react',
@@ -177,8 +177,8 @@ const projects = [
   },
   {
     id: 'project-3',
-    name: 'Math Magicians',
-    description: 'This is a single-page calculator app built with React',
+    name: 'AMI Landing page',
+    description: 'This is a single-page for a tech company',
     tags: [
       {
         name: 'nextjs',
@@ -199,8 +199,8 @@ const projects = [
   },
   {
     id: 'project-4',
-    name: 'Movie Metro',
-    description: `A single-page application that allows users to search for any movie or show's ratings and its details.`,
+    name: 'Traffic Prediction',
+    description: `TensorFlow machine learning models that predict traffic on road sections.`,
     tags: [
       {
         name: 'nextjs',
@@ -221,9 +221,9 @@ const projects = [
   },
   {
     id: 'project-5',
-    name: 'Nyeusi Fest Site',
+    name: 'SET KENYA Website', 
     description:
-      'This is a demo concert website for a music festival called Nyeusi.',
+      'Functional & hosted website for the Student Empowerment Team Kenya.',
     tags: [
       {
         name: 'nextjs',
