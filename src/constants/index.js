@@ -136,8 +136,8 @@ const experiences = [
 const projects = [
   {
     id: 'project-1',
-    name: 'KomiKult',
-    description: 'A comic characters list app that displays Marvel characters.',
+    name: 'Natural Language Processing',
+    description: 'A NLP project that analysed the themes of a reknown twitter account - Amerix',
     tags: [
       {
         name: 'react',
@@ -158,9 +158,9 @@ const projects = [
   },
   {
     id: 'project-2',
-    name: 'Leaderboard',
+    name: 'Time Series Analysis',
     description:
-      'A leaderboard list app that displays scores submitted by different players.',
+      'An integrated Time series anlysis application that predicts farm production & income',
     tags: [
       {
         name: 'react',
