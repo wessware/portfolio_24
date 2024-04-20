@@ -3,8 +3,8 @@ import nairobi from './backgrounds/nairobi.png';
 import whiteabstract from './backgrounds/white-abstract.png';
 import worldmap from './backgrounds/world-map.png';
 
-import logo from './logo/lg_bl.png';
-import logotext from './logo/lg_tx_bl.png';
+import logo from './logo/lg_last.png';
+import logotext from './logo/lg_tx.png';
 
 import wessware from './personal/wessware.png';
 
