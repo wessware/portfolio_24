@@ -39,6 +39,11 @@ import graphql from './tech/graphql.png';
 import postgresql from './tech/postgresql.png';
 import rubyrails from './tech/rubyrails.png';
 
+import bi from './tech/bi.png';
+import excel from './tech/excel.png';
+import python from './tech/python.png';
+import r from './tech/r.png';
+
 import coverhunt from './company/coverhunt.png';
 import dcc from './company/dcc.png';
 import kelhel from './company/kelhel.png';
