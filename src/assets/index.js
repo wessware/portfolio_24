@@ -49,6 +49,12 @@ import dcc from './company/dcc.png';
 import kelhel from './company/kelhel.png';
 import microverse from './company/microverse.png';
 
+import freelancer from './icons/freelancer.png';
+import cf from './icons/cf.png';
+import ds from './icons/ds.png';
+import student from './icons/student.png';
+import manager from './icons/manager.png';
+
 import komikult from './projects/amerix_vs.png';
 import leaderboard from './projects/sungurai.jpg';
 import math from './projects/ami.jpg';
@@ -61,6 +67,11 @@ export {
   excel,
   python,
   r,
+  freelancer,
+  cf,
+  student,
+  ds,
+  manager,
   bwmap,
   nairobi,
   whiteabstract,
