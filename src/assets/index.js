@@ -8,10 +8,11 @@ import logotext from './logo/text_logo_big.png';
 
 import wessware from './personal/wessware.png';
 
-import backend from './icons/backend.png';
-import ux from './icons/ux.png';
-import frontend from './icons/frontend.png';
-import prototyping from './icons/prototyping.png';
+import backend from './icons/ml.png';
+import ux from './icons/enumeration.png';
+import frontend from './icons/da.png';
+import prototyping from './icons/software.png';
+
 import github from './icons/github.png';
 import close from './icons/close.png';
 import download from './icons/download.png';
