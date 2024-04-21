@@ -60,7 +60,7 @@ const services = [
     icon: ux,
   },
   {
-    title: 'Software Development',
+    title: 'Web Development',
     icon: prototyping,
   },
 ];
@@ -73,6 +73,14 @@ const technologies = [
   {
     name: 'R',
     icon: r,
+  },
+  {
+    name: 'Excel',
+    icon: excel,
+  },
+  {
+    name: 'PowerBI',
+    icon: bi,
   },
   {
     name: 'HTML 5',
@@ -105,14 +113,6 @@ const technologies = [
   {
     name: 'git',
     icon: git,
-  },
-  {
-    name: 'Excel',
-    icon: excel,
-  },
-  {
-    name: 'PowerBI',
-    icon: bi,
   },
   ];
 

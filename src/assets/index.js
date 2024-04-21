@@ -57,6 +57,10 @@ import nyeusi from './projects/set_kenya.png';
 import space from './projects/space-hub.png';
 
 export {
+  bi,
+  excel,
+  python,
+  r,
   bwmap,
   nairobi,
   whiteabstract,
