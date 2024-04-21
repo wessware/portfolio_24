@@ -56,11 +56,11 @@ import student from './icons/student.png';
 import manager from './icons/manager.png';
 import cv from './icons/cv.png';
 
-import komikult from './projects/amerix_vs.png';
-import leaderboard from './projects/sungurai.jpg';
-import math from './projects/ami.jpg';
-import movie from './projects/traffic.jpg';
-import nyeusi from './projects/set_kenya.png';
+import amerix from './projects/amerix_vs.png';
+import sungurai from './projects/sungurai.jpg';
+import ami from './projects/ami.jpg';
+import traffic from './projects/traffic.jpg';
+import setkenya from './projects/set_kenya.png';
 import space from './projects/space-hub.png';
 
 export {
@@ -109,11 +109,11 @@ export {
   redux,
   tailwind,
   typescript,
-  komikult,
-  leaderboard,
-  math,
-  movie,
-  nyeusi,
+  amerix,
+  sungurai,
+  ami,
+  traffic,
+  setkenya,
   space,
   coverhunt,
   dcc,
