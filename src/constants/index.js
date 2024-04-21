@@ -8,25 +8,23 @@ import {
   html,
   css,
   reactjs,
-  redux,
   tailwind,
   nodejs,
   git,
-  figma,
-  docker,
-  postgresql,
-  rubyrails,
-  graphql,
   komikult,
   leaderboard,
   math,
   movie,
   nyeusi,
-  space,
   coverhunt,
   dcc,
   kelhel,
   microverse,
+
+  excel,
+  python, 
+  bi, 
+  r,
 } from '../assets';
 
 export const navLinks = [
@@ -69,6 +67,14 @@ const services = [
 
 const technologies = [
   {
+    name: 'Python',
+    icon: python,
+  },
+  {
+    name: 'R',
+    icon: r,
+  },
+  {
     name: 'HTML 5',
     icon: html,
   },
@@ -99,7 +105,15 @@ const technologies = [
   {
     name: 'git',
     icon: git,
-  }
+  },
+  {
+    name: 'Excel',
+    icon: excel,
+  },
+  {
+    name: 'PowerBI',
+    icon: bi,
+  },
   ];
 
 const experiences = [
