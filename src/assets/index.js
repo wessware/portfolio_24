@@ -54,6 +54,7 @@ import cf from './icons/cf.png';
 import ds from './icons/ds.png';
 import student from './icons/student.png';
 import manager from './icons/manager.png';
+import cv from './icons/cv.png';
 
 import komikult from './projects/amerix_vs.png';
 import leaderboard from './projects/sungurai.jpg';
@@ -69,6 +70,7 @@ export {
   r,
   freelancer,
   cf,
+  cv,
   student,
   ds,
   manager,

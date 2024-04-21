@@ -16,9 +16,6 @@ import {
   math,
   movie,
   nyeusi,
-  dcc,
-  kelhel,
-  microverse,
 
   excel,
   python, 
@@ -29,6 +26,7 @@ import {
   student,
   manager,
   ds,
+  cv,
 } from '../assets';
 
 export const navLinks = [
