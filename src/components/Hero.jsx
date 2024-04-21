@@ -62,8 +62,7 @@ const Hero = () => {
           flex justify-center items-center">
           <a href="#about">
             <div
-              className="w-[35px] h-[64px] rounded-3xl border-4 
-            border-french border-dim flex
+              className="w-[35px] h-[64px] rounded-3xl border-4 border-dim flex
             justify-center items-start p-2">
               <motion.div
                 animate={{
