@@ -4,7 +4,7 @@ import whiteabstract from './backgrounds/white-abstract.png';
 import worldmap from './backgrounds/world-map.png';
 
 import logo from './logo/lg_last.png';
-import logotext from './logo/lg_tx.png';
+import logotext from './logo/text_logo_big.png';
 
 import wessware from './personal/wessware.png';
 
