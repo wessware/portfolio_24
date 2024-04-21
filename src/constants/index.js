@@ -118,32 +118,39 @@ const technologies = [
 
 const experiences = [
   {
+    title: 'Data Analyst & Web Developer',
+    company_name: 'Freelance',
+    icon: coverhunt,
+    iconBg: '#333333',
+    date: 'Jan 2023 - Present',
+  },
+  {
     title: 'Independent Cloud Contractor',
     company_name: 'CloudFactory Kenya',
     icon: coverhunt,
     iconBg: '#333333',
-    date: 'May 2023 - Present',
+    date: 'Sept 2023 - Present',
   },
   {
     title: 'Data Analsyt',
     company_name: 'DukaTech Solutions',
     icon: microverse,
     iconBg: '#333333',
-    date: 'Jan 2021 - Aug 2023',
+    date: 'Aug 2021 - Aug 2023',
   },
   {
     title: 'Data Manager/Enumerator',
     company_name: 'Federation of Kenya Employer JKUAT',
     icon: kelhel,
     iconBg: '#333333',
-    date: 'Oct 2022 - March 2023',
+    date: 'March 2021 - March 2022',
   },
   {
     title: 'Junior Front-end Developer',
     company_name: 'Roftus Kenya',
     icon: dcc,
     iconBg: '#333333',
-    date: 'Jun 2019 - May 2020',
+    date: 'Jun 2019 - March 2020',
   },
 ];
 
