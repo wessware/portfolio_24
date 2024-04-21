@@ -11,12 +11,7 @@ import {
   tailwind,
   nodejs,
   git,
-  komikult,
-  leaderboard,
-  math,
-  movie,
-  nyeusi,
-
+  
   excel,
   python, 
   bi, 
@@ -26,7 +21,11 @@ import {
   student,
   manager,
   ds,
-  cv,
+  setkenya,
+  traffic,
+  ami,
+  sungurai,
+  amerix,
 } from '../assets';
 
 export const navLinks = [
@@ -163,21 +162,21 @@ const projects = [
     description: 'Sentiment Analysis on a reknown twitter user - Amerix',
     tags: [
       {
-        name: 'react',
+        name: 'Python',
         color: 'blue-text-gradient',
       },
       {
-        name: 'mongodb',
+        name: 'Hugging Face',
         color: 'green-text-gradient',
       },
       {
-        name: 'tailwind',
+        name: 'Kaggle',
         color: 'pink-text-gradient',
       },
     ],
-    image: komikult,
-    repo: 'https://github.com/shaqdeff/KomiKult',
-    demo: 'https://shaqdeff.github.io/KomiKult/',
+    image: amerix,
+    repo: 'https://github.com/wessware/sentiment_analysis_on_masculinity_saturday',
+    demo: 'https://github.com/wessware/sentiment_analysis_on_masculinity_saturday',
   },
   {
     id: 'project-2',
@@ -186,21 +185,21 @@ const projects = [
       'An integrated Time series anlysis application that predicts farm production & income',
     tags: [
       {
-        name: 'react',
+        name: 'Python',
         color: 'blue-text-gradient',
       },
       {
-        name: 'restapi',
+        name: 'R',
         color: 'green-text-gradient',
       },
       {
-        name: 'scss',
+        name: 'Kaggle',
         color: 'pink-text-gradient',
       },
     ],
-    image: leaderboard,
-    repo: 'https://github.com/shaqdeff/Leaderboard',
-    demo: 'https://shaqdeff.github.io/Leaderboard/',
+    image: sungurai,
+    repo: 'https://github.com/wessware/ARIMA_TIME_SERIES_FORECASTING',
+    demo: 'https://github.com/wessware/ARIMA_TIME_SERIES_FORECASTING',
   },
   {
     id: 'project-3',
@@ -208,21 +207,21 @@ const projects = [
     description: 'This is a single-page for a tech company',
     tags: [
       {
-        name: 'nextjs',
+        name: 'ReactJS',
         color: 'blue-text-gradient',
       },
       {
-        name: 'supabase',
+        name: 'HTML5',
         color: 'green-text-gradient',
       },
       {
-        name: 'css',
+        name: 'css3',
         color: 'pink-text-gradient',
       },
     ],
-    image: math,
-    repo: 'https://github.com/shaqdeff/Math-Magicians',
-    demo: 'https://inspiring-medovik-37d3b3.netlify.app/',
+    image: ami,
+    repo: 'https://github.com/ami-ng',
+    demo: 'https://ami.ng',
   },
   {
     id: 'project-4',
@@ -230,21 +229,21 @@ const projects = [
     description: `TensorFlow machine learning models that predict traffic on road sections.`,
     tags: [
       {
-        name: 'nextjs',
+        name: 'Python',
         color: 'blue-text-gradient',
       },
       {
-        name: 'supabase',
+        name: 'TensorFlow',
         color: 'green-text-gradient',
       },
       {
-        name: 'css',
+        name: 'Kaggle',
         color: 'pink-text-gradient',
       },
     ],
-    image: movie,
-    repo: 'https://github.com/shaqdeff/Movie-Metro',
-    demo: 'https://movie-metro.netlify.app/',
+    image: traffic,
+    repo: 'https://github.com/wessware/traffic_prediction_tensorflow',
+    demo: 'https://www.researchgate.net/publication/366154898_Deployment_of_Time_Series_Analysis_and_the_TensorFlow_GRU_model_in_traffic_flow_prediction',
   },
   {
     id: 'project-5',
@@ -253,21 +252,21 @@ const projects = [
       'Functional & hosted website for the Student Empowerment Team Kenya.',
     tags: [
       {
-        name: 'nextjs',
+        name: 'JavaScript',
         color: 'blue-text-gradient',
       },
       {
-        name: 'supabase',
+        name: 'HTML5',
         color: 'green-text-gradient',
       },
       {
-        name: 'css',
+        name: 'css3',
         color: 'pink-text-gradient',
       },
     ],
-    image: nyeusi,
-    repo: 'https://github.com/shaqdeff/Nyeusi-Fest-Site',
-    demo: 'https://shaqdeff.github.io/Nyeusi-Fest-Site/',
+    image: setkenya,
+    repo: 'https://github.com/wessware/student_empowerment_team_kenya_web2.0.6',
+    demo: 'http://setkenya.org',
   },
 ];
 
