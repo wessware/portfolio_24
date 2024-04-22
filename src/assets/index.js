@@ -8,10 +8,10 @@ import logotext from './logo/text_logo_big.png';
 
 import wessware from './personal/wessware.png';
 
-import backend from './icons/ml.png';
+import machine from './icons/ml.png';
 import ux from './icons/enumeration.png';
-import frontend from './icons/da.png';
-import prototyping from './icons/software.png';
+import data from './icons/da.png';
+import software from './icons/software.png';
 
 import github from './icons/github.png';
 import close from './icons/close.png';
@@ -81,10 +81,10 @@ export {
   logo,
   logotext,
   wessware,
-  backend,
+  machine,
   ux,
-  frontend,
-  prototyping,
+  data,
+  software,
   github,
   close,
   download,

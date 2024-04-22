@@ -1,8 +1,8 @@
 import {
-  frontend,
-  backend,
+  data,
+  machine,
   ux,
-  prototyping,
+  software,
   javascript,
   typescript,
   html,
@@ -50,19 +50,19 @@ export const navLinks = [
 const services = [
   {
     title: 'Data Analysis',
-    icon: frontend,
+    icon: data,
   },
   {
     title: 'Machine Learning Engineering',
-    icon: backend,
+    icon: machine,
   },
   {
-    title: 'Data Enumeration & Management',
+    title: 'Data Enumeration & Annotation',
     icon: ux,
   },
   {
     title: 'Web Development',
-    icon: prototyping,
+    icon: software,
   },
 ];
 
