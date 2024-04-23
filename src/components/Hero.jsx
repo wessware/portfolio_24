@@ -9,14 +9,13 @@ const Hero = () =>
   return (
     <>
         <div className="absolute top-0 left-0 z-0 h-[100vh] w-screen">
-
         <video
         src={videoSource}
         type="video/mp4"
         autoPlay
         loop
         muted
-        className="w-full h-full object-cover"
+        className="w-full h-full sm:block hidden object-cover"
         />
       {/* 
           <img
@@ -27,14 +26,13 @@ const Hero = () =>
       */}
         </div>
         <div className="absolute top-0 left-0 z-0 h-[100vh] w-screen">
-
         <video
         src={videoSource}
         type="video/mp4"
         autoPlay
         loop
         muted
-        className="w-full h-full object-cover"
+        className="w-full h-full sm:block hidden object-cover"
         />
         {/*
           <img
