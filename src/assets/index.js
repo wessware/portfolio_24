@@ -2,6 +2,7 @@ import bwmap from './backgrounds/bw-map.jpeg';
 import tech from './backgrounds/tech_bg.jpg';
 import whiteabstract from './backgrounds/white-abstract.png';
 import worldmap from './backgrounds/world-map.png';
+import videoSource from './backgrounds/bg_vid.mp4';
 
 import logo from './logo/lg_last.png';
 import logotext from './logo/text_logo_big.png';
@@ -96,4 +97,5 @@ export {
   ami,
   traffic,
   setkenya,
+  videoSource,
 };

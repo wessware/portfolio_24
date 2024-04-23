@@ -2,25 +2,47 @@ import { motion } from 'framer-motion';
 //mport { Link } from 'react-router-dom';
 import { styles } from '../styles';
 //import { navLinks } from '../constants';
-import { wessware, tech} from '../assets';
+import { wessware, videoSource} from '../assets';
 
 const Hero = () => 
 {
   return (
     <>
         <div className="absolute top-0 left-0 z-0 h-[100vh] w-screen">
+
+        <video
+        src={videoSource}
+        type="video/mp4"
+        autoPlay
+        loop
+        muted
+        className="w-full h-full object-cover"
+        />
+      {/* 
           <img
-            src={tech} //bwmap
+            src={tech} //bwmap, tech
             alt="world map"
             className="w-full h-full sm:block hidden object-cover"
-          />
+          /> 
+      */}
         </div>
         <div className="absolute top-0 left-0 z-0 h-[100vh] w-screen">
+
+        <video
+        src={videoSource}
+        type="video/mp4"
+        autoPlay
+        loop
+        muted
+        className="w-full h-full object-cover"
+        />
+        {/*
           <img
             src={tech} //worldmap
             alt="world map"
             className="w-full h-full sm:hidden block object-cover"
           />
+        */}
         </div>
         <section
           className="relative flex sm:flex-row flex-col w-full h-screen mx-auto 
