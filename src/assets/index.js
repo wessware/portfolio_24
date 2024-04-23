@@ -6,7 +6,7 @@ import worldmap from './backgrounds/world-map.png';
 import logo from './logo/lg_last.png';
 import logotext from './logo/text_logo_big.png';
 
-import wessware from './personal/wessware.png';
+import wessware from './personal/wess.png';
 
 import machine from './icons/ml.png';
 import ux from './icons/enumeration.png';

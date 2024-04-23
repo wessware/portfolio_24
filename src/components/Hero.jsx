@@ -78,8 +78,6 @@ const Hero = () => {
             </div>
           </a>
         </div>
-
-        {/* Your image comes here. Feel free to remove image if you don't plan to have one.*/}
         <div>
           <img
             className="absolute bottom-0 ml-[50vw] 
