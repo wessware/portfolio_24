@@ -26,6 +26,7 @@ import {
   ami,
   sungurai,
   amerix,
+  sql,
 } from '../assets';
 
 export const navLinks = [
@@ -82,6 +83,10 @@ const technologies = [
   {
     name: 'PowerBI',
     icon: bi,
+  },
+  {
+    name: 'SQL',
+    icon: sql,
   },
   {
     name: 'HTML 5',

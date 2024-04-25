@@ -45,6 +45,7 @@ import ds from './icons/ds.png';
 import student from './icons/student.png';
 import manager from './icons/manager.png';
 import cv from './icons/cv.png';
+import sql from './icons/sql.png';
 
 import amerix from './projects/amerix_vs.png';
 import sungurai from './projects/sungurai.jpg';
@@ -53,6 +54,7 @@ import traffic from './projects/traffic.jpg';
 import setkenya from './projects/set_kenya.png';
 
 export {
+  sql,
   bi,
   excel,
   python,
