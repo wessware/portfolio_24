@@ -2,7 +2,7 @@ import { motion } from 'framer-motion';
 //mport { Link } from 'react-router-dom';
 import { styles } from '../styles';
 //import { navLinks } from '../constants';
-import { wessware, videoSource} from '../assets';
+import { wessware, videoSource, tech} from '../assets';
 
 const Hero = () => 
 {
@@ -10,12 +10,14 @@ const Hero = () =>
     <>
         <div className="absolute top-0 left-0 z-0 h-[100vh] w-screen">
         <video
+        className="w-full h-full sm:block hidden object-cover"
         src={videoSource}
         type="video/mp4"
+        poster={tech}
         autoPlay
+        playsInline
         loop
         muted
-        className="w-full h-full sm:block hidden object-cover"
         />
       {/* 
           <img
@@ -24,23 +26,23 @@ const Hero = () =>
             className="w-full h-full sm:block hidden object-cover"
           /> 
       */}
-        </div>
+      {/*  </div>
         <div className="absolute top-0 left-0 z-0 h-[100vh] w-screen">
         <video
+        className="w-full h-full sm:block hidden object-cover"
         src={videoSource}
         type="video/mp4"
         autoPlay
         loop
         muted
-        className="w-full h-full sm:block hidden object-cover"
-        />
-        {/*
+    /> */}
+      
           <img
             src={tech} //worldmap
             alt="world map"
             className="w-full h-full sm:hidden block object-cover"
           />
-        */}
+      
         </div>
         <section
           className="relative flex sm:flex-row flex-col w-full h-screen mx-auto 
