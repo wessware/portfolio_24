@@ -25,19 +25,11 @@ const Contact = () => {
     e.preventDefault();
     setLoading(true);
 
-    emailjs
-      .send(
-        'service_03iufwz', //ServiceID
-        'template_zke4mld', //TemplateID
-        {
-          from_name: form.name,
-          to_name: 'Wessware', 
-          from_email: form.email,
-          to_email: 'wesswares@gmail.com',
-          message: form.message,
-        },
-        'Xq3_gJ0Xlxk2YZXzc' //Public Key
-      )
+    emailjs.init({
+      publicKey: 'xxxxxxxxxxxx',
+    })
+
+    emailjs.sendForm("", "", this)
       .then(
         () => {
           setLoading(false);
