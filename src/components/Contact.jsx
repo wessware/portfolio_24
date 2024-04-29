@@ -29,7 +29,7 @@ const Contact = () => {
       publicKey: 'Xq3_gJ0Xlxk2YZXzc',
     })
 
-    emailjs.sendForm("wessware_gmail", "wessware_mail", this)
+    emailjs.sendForm("wessware_gmail", "wessware_mail", formRef.current, this)
       .then(
         () => {
           setLoading(false);
