@@ -5,7 +5,7 @@ import { styles } from '../styles';
 import { SectionWrapper } from '../hoc';
 import { slideIn } from '../utils/motion';
 import { send, sendHover } from '../assets';
-
+  {/*Xq3_gJ0Xlxk2YZXzc */}
 const Contact = () => {
   const formRef = useRef();
   const [form, setForm] = useState({
@@ -25,15 +25,23 @@ const Contact = () => {
     e.preventDefault();
     setLoading(true);
 
-    emailjs.init({
-      publicKey: 'Xq3_gJ0Xlxk2YZXzc',
-    })
-
-    emailjs.sendForm("wessware_gmail", "wessware_mail", formRef.current, this)
+    emailjs
+      .send(
+        'service_03iufwz',
+        'wessware_contact_form',
+        {
+          from_name: form.name,
+          to_name: 'Wessware',
+          from_email: form.email,
+          to_email: 'wesswares@gmail.com',
+          message: form.message,
+        },
+        'Xq3_gJ0Xlxk2YZXzc'
+      )
       .then(
         () => {
           setLoading(false);
-          alert('Thank you. I will get back to you as soon as possible.');
+          alert('Hey! I will get back to you as soon as possible :)');
 
           setForm({
             name: '',
