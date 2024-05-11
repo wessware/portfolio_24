@@ -145,7 +145,7 @@ const experiences = [
     date: 'Aug 2021 - Aug 2023',
   },
   {
-    title: 'Data Manager/Enumerator',
+    title: 'Data Enumerator',
     company_name: 'Federation of Kenya Employer JKUAT',
     icon: manager,
     iconBg: '#333333',
@@ -230,7 +230,7 @@ const projects = [
   },
   {
     id: 'project-4',
-    name: 'Traffic Prediction',
+    name: 'TF Traffic Prediction',
     description: `TensorFlow machine learning models that predict traffic on road sections.`,
     tags: [
       {
