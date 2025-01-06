@@ -42,10 +42,6 @@ export const navLinks = [
     id: 'contact',
     title: 'Contact',
   },
-  {
-    id: 'blog',
-    title: 'Blog',
-  },
 ];
 
 const services = [
@@ -62,7 +58,7 @@ const services = [
     icon: ux,
   },
   {
-    title: 'Web Development',
+    title: 'Monitoring & Evaluation',
     icon: software,
   },
 ];
@@ -104,19 +100,7 @@ const technologies = [
     name: 'TypeScript',
     icon: typescript,
   },
-  {
-    name: 'React JS',
-    icon: reactjs,
-  },
-  {
-    name: 'Tailwind CSS',
-    icon: tailwind,
-  },
-  {
-    name: 'Node JS',
-    icon: nodejs,
-  },
-  {
+   {
     name: 'git',
     icon: git,
   },
@@ -149,7 +133,7 @@ const experiences = [
     company_name: 'Federation of Kenya Employer JKUAT',
     icon: manager,
     iconBg: '#333333',
-    date: 'March 2021 - March 2022',
+    date: '2022,2023, 2024',
   },
   {
     title: 'Junior Front-end Developer',
