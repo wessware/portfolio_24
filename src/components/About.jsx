@@ -37,10 +37,10 @@ const About = () => {
       <motion.p
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]">
-        With more than three years of experience, I have accrued a wealth of skills in Data & Analytics. 
-        I have worked on various projects, from data cleaning and transformation to data visualization. 
-        I am passionate about using my skills in data science to make a positive impact on the world. I as well
-        have crude experience in Software development using technologies such NodeJS, MongoDB, and ReactJS.
+        I am an erudite Data & Analytics expert with more than 3 years of practical experience in creating
+        meaning insights from data through Data Analysis, Data Visualization, Data Modelling, and building
+        machine learning models. 
+        I also have experience in Monotiring & Evaluation, as well as Project Management. 
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
