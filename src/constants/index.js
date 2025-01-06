@@ -85,14 +85,6 @@ const technologies = [
     icon: sql,
   },
   {
-    name: 'HTML 5',
-    icon: html,
-  },
-  {
-    name: 'CSS 3',
-    icon: css,
-  },
-  {
     name: 'JavaScript',
     icon: javascript,
   },
@@ -119,14 +111,14 @@ const experiences = [
     company_name: 'CloudFactory Kenya',
     icon: cf,
     iconBg: '#333333',
-    date: 'Sept 2023 - Present',
+    date: 'May 2023 - Present',
   },
   {
     title: 'Data Analsyt',
     company_name: 'DukaTech Solutions',
     icon: ds,
     iconBg: '#333333',
-    date: 'Aug 2021 - Aug 2023',
+    date: 'Jan 2021 - Aug 2024',
   },
   {
     title: 'Data Enumerator',
@@ -134,13 +126,6 @@ const experiences = [
     icon: manager,
     iconBg: '#333333',
     date: '2022,2023, 2024',
-  },
-  {
-    title: 'Junior Front-end Developer',
-    company_name: 'Roftus Kenya',
-    icon: student,
-    iconBg: '#333333',
-    date: 'Jun 2019 - March 2020',
   },
 ];
 
