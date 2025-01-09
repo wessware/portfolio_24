@@ -100,7 +100,7 @@ const technologies = [
 
 const experiences = [
   {
-    title: 'Data Analyst & Web Developer',
+    title: 'Data Analyst / Research Assistant',
     company_name: 'Freelance',
     icon: freelancer,
     iconBg: '#333333',
@@ -121,7 +121,7 @@ const experiences = [
     date: 'Jan 2021 - Aug 2024',
   },
   {
-    title: 'Data Enumerator',
+    title: 'Research Assistant',
     company_name: 'Federation of Kenya Employer JKUAT',
     icon: manager,
     iconBg: '#333333',
@@ -133,7 +133,7 @@ const projects = [
   {
     id: 'project-1',
     name: 'NLP',
-    description: 'Sentiment Analysis on a reknown twitter user - Amerix',
+    description: 'Trained Hugging Face Sentiment Analysis LLMs on a popular Twitter sensation.',
     tags: [
       {
         name: 'Python',
@@ -177,30 +177,30 @@ const projects = [
   },
   {
     id: 'project-3',
-    name: 'AMI Landing page',
-    description: 'This is a single-page for a tech company',
+    name: 'R Data Analysis & Visualization',
+    description: 'This project explores the advanced depths of Data Visualization & Analysis using R.',
     tags: [
       {
-        name: 'ReactJS',
+        name: 'R',
         color: 'blue-text-gradient',
       },
       {
-        name: 'HTML5',
+        name: 'Kaggle',
         color: 'green-text-gradient',
       },
       {
-        name: 'css3',
+        name: 'Jupyter',
         color: 'pink-text-gradient',
       },
     ],
     image: ami,
-    repo: 'https://github.com/ami-ng',
-    demo: 'https://ami.ng',
+    repo: 'https://github.com/wessware/data_visualization_R_101',
+    demo: 'https://github.com/wessware/data_visualization_R_101',
   },
   {
     id: 'project-4',
-    name: 'TF Traffic Prediction',
-    description: `TensorFlow machine learning models that predict traffic on road sections.`,
+    name: 'TF GRU Traffic Prediction',
+    description: 'TensorFlow GRU Neural Network models that predict traffic on road sections.',
     tags: [
       {
         name: 'Python',
@@ -221,9 +221,9 @@ const projects = [
   },
   {
     id: 'project-5',
-    name: 'SET KENYA Website', 
+    name: 'Credit Scores using Boosting & Clustering Models', 
     description:
-      'Functional & hosted website for the Student Empowerment Team Kenya.',
+      'These projects explore the robustness of Boosting & Clustering ML algorithms in credit scoring models.',
     tags: [
       {
         name: 'JavaScript',
@@ -239,8 +239,8 @@ const projects = [
       },
     ],
     image: setkenya,
-    repo: 'https://github.com/wessware/student_empowerment_team_kenya_web2.0.6',
-    demo: 'http://setkenya.org',
+    repo: 'https://github.com/wessware/Boosting_Algorithms',
+    demo: 'https://github.com/wessware/Boosting_Algorithms',
   },
 ];
 
