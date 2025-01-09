@@ -51,7 +51,7 @@ import amerix from './projects/amerix_vs.png';
 import sungurai from './projects/sungurai.jpg';
 import ami from './projects/ami.jpg';
 import traffic from './projects/traffic.jpg';
-import setkenya from './projects/set_kenya.png';
+import setkenya from './projects/boost.jpg';
 
 export {
   sql,

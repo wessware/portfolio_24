@@ -88,10 +88,6 @@ const technologies = [
     name: 'JavaScript',
     icon: javascript,
   },
-  {
-    name: 'TypeScript',
-    icon: typescript,
-  },
    {
     name: 'git',
     icon: git,
@@ -226,15 +222,15 @@ const projects = [
       'These projects explore the robustness of Boosting & Clustering ML algorithms in credit scoring models.',
     tags: [
       {
-        name: 'JavaScript',
+        name: 'Python',
         color: 'blue-text-gradient',
       },
       {
-        name: 'HTML5',
+        name: 'XGB',
         color: 'green-text-gradient',
       },
       {
-        name: 'css3',
+        name: 'CatBoost',
         color: 'pink-text-gradient',
       },
     ],
