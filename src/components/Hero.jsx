@@ -68,8 +68,8 @@ const Hero = () =>
                     </span>
                   </h1>
                 <p className={`${styles.heroSubText} mt-2 text-eerieBlack`}>
-                  A passionate Data Analyst, <br className="sm:block hidden" />
-                  machine learning engineer, and web developer.
+                  I am here <br className="sm:block hidden" />
+                  for the difficult questions!
                 </p>
             </div>
             <div
