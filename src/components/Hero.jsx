@@ -19,23 +19,6 @@ const Hero = () =>
         loop
         muted
         />
-      {/* 
-          <img
-            src={tech} //bwmap, tech
-            alt="world map"
-            className="w-full h-full sm:block hidden object-cover"
-          /> 
-      */}
-      {/*  </div>
-        <div className="absolute top-0 left-0 z-0 h-[100vh] w-screen">
-        <video
-        className="w-full h-full sm:block hidden object-cover"
-        src={videoSource}
-        type="video/mp4"
-        autoPlay
-        loop
-        muted
-    /> */}
       
           <img
             src={tech} //worldmap
