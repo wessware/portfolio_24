@@ -11,7 +11,7 @@ const Hero = () =>
         <div className="absolute top-0 left-0 z-0 h-[100vh] w-screen">
         <video
         className="w-full h-full sm:block hidden object-cover"
-        src={videoSource}
+        src={videoSources}
         type="video/mp4"
         poster={tech}
         autoPlay
