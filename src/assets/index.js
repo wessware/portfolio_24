@@ -49,7 +49,7 @@ import sql from './icons/sql.png';
 
 import amerix from './projects/amerix_vs.png';
 import sungurai from './projects/sungurai.jpg';
-import ami from './projects/ami.jpg';
+import ami from './projects/r.jpg';
 import traffic from './projects/traffic.jpg';
 import setkenya from './projects/boost.jpg';
 
