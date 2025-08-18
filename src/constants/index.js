@@ -96,29 +96,29 @@ const technologies = [
 
 const experiences = [
   {
-    title: 'Data Analyst / Research Assistant',
-    company_name: 'Freelance',
+    title: 'Parttime Data Consultant',
+    company_name: 'ShopOkoa',
     icon: freelancer,
     iconBg: '#333333',
-    date: 'Jan 2023 - Present',
+    date: 'Jan 2021 - Present',
   },
   {
     title: 'Independent Cloud Contractor',
     company_name: 'CloudFactory Kenya',
     icon: cf,
     iconBg: '#333333',
-    date: 'May 2023 - Present',
+    date: 'Oct 2023v - Present',
   },
   {
-    title: 'Data Analsyt',
-    company_name: 'DukaTech Solutions',
+    title: 'M&E Research Assistant',
+    company_name: 'Kenya Private Sector Alliance',
     icon: ds,
     iconBg: '#333333',
-    date: 'Jan 2021 - Aug 2024',
+    date: '2024, 2025',
   },
   {
     title: 'Research Assistant',
-    company_name: 'Federation of Kenya Employer JKUAT',
+    company_name: 'Federation of Kenyan Employers',
     icon: manager,
     iconBg: '#333333',
     date: '2022,2023, 2024',
