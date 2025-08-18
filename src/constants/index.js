@@ -46,19 +46,19 @@ export const navLinks = [
 
 const services = [
   {
-    title: 'Data Analysis',
+    title: 'Data & Analytics',
     icon: data,
   },
   {
-    title: 'Machine Learning Engineering',
+    title: 'Monitoring & Evaluation',
     icon: machine,
   },
   {
-    title: 'Data Enumeration & Annotation',
+    title: 'Data Management',
     icon: ux,
   },
   {
-    title: 'Monitoring & Evaluation',
+    title: 'Creative & Business writing',
     icon: software,
   },
 ];
