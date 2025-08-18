@@ -10,9 +10,9 @@ import logotext from './logo/text_logo_big.png';
 import wessware from './personal/wess.png';
 
 import machine from './icons/ml.png';
-import ux from './icons/enumeration.png';
 import data from './icons/da.png';
-import software from './icons/software.png';
+import me from './icons/monitoring.png';
+import write from './icons/report_writing.png';
 
 import github from './icons/github.png';
 import close from './icons/close.png';
@@ -73,9 +73,7 @@ export {
   logotext,
   wessware,
   machine,
-  ux,
   data,
-  software,
   github,
   close,
   download,
@@ -100,4 +98,6 @@ export {
   traffic,
   setkenya,
   videoSource,
+  me,
+  write
 };

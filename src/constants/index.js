@@ -1,7 +1,7 @@
 import {
   data,
   machine,
-  ux,
+  me,
   software,
   javascript,
   typescript,
@@ -50,15 +50,15 @@ const services = [
     icon: data,
   },
   {
-    title: 'Monitoring & Evaluation',
+    title: 'Machine Learning',
     icon: machine,
   },
   {
-    title: 'Data Management',
-    icon: ux,
+    title: 'Monitoring & Evaluation',
+    icon: me,
   },
   {
-    title: 'Creative & Business writing',
+    title: 'Report Writing',
     icon: software,
   },
 ];

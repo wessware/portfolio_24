@@ -38,7 +38,7 @@ const About = () => {
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]">
         I am a Data Analyst. I have more than 4 years of experiencing creating meaningful business insights from data. From conception, to designing, implementation,
-        and storytelling. My contribution on projects spans ETL, visualization, modelling, and reporting.
+        and storytelling. My contribution on projects spans M&E, ETL, visualization, modelling, and reporting.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
