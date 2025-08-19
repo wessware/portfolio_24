@@ -2,7 +2,7 @@ import {
   data,
   machine,
   me,
-  software,
+  write,
   javascript,
   typescript,
   html,
@@ -59,7 +59,7 @@ const services = [
   },
   {
     title: 'Report Writing',
-    icon: software,
+    icon: write,
   },
 ];
 
