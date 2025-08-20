@@ -115,9 +115,9 @@ const Projects = () => {
         <motion.p
           variants={fadeIn('', '', 0.1, 1)}
           className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]">
-          This is a highlight of some of the projects I have worked on with link to the code 
-          repositories on GitHub. They demonstrate how I have been able to liverage my skills in technical technological
-          problem solving as well as project planning and implementation. 
+          Beyond Capstone projects, I have been involved in different corporate projects that have been pivotal in accentuating my technical and 
+          soft skills. My involvement in these projects includes: data collections, research assistance, monitoring & evaluation, data analysis, and 
+          report writing.  
         </motion.p>
       </div>
 
